@@ -38,6 +38,7 @@ Professionele PrestaShop module voor het snel en accuraat importeren van muziek 
 - ✅ Nederlandse producten
 - ✅ Inclusief prijzen
 - ⚠️ Vereist API credentials
+- ⚠️ **Niet getest** - gebruik op eigen risico
 
 **→ [Bol.com Partner Programma](https://partnerprogramma.bol.com/)**
 
@@ -143,6 +144,8 @@ Professionele PrestaShop module voor het snel en accuraat importeren van muziek 
 ---
 
 ### Optie 2: Bol.com (Optioneel)
+
+⚠️ **Let op:** De Bol.com API integratie is **niet getest**. Gebruik op eigen risico. Discogs wordt aanbevolen.
 
 #### 1. Word Bol.com Partner
 → **[Aanmelden als Bol.com Partner](https://partnerprogramma.bol.com/)**

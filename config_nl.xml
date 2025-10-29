@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>musiceanscanner</name>
+    <displayName><![CDATA[Music EAN Importer]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Import muziek producten via EAN code (Discogs of Bol.com)]]></description>
+    <author><![CDATA[Daniel Stam]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <confirmUninstall><![CDATA[Weet je zeker dat je deze module wilt verwijderen?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

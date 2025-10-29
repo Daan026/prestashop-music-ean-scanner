@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>musiceanscanner</name>
+    <displayName><![CDATA[Music EAN Scanner]]></displayName>
+    <version><![CDATA[2.0.1]]></version>
+    <description><![CDATA[Scan en importeer CD's, Vinyl, DVD's via Discogs of Bol.com API]]></description>
+    <author><![CDATA[Daniel Stam]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <compatible_versions><![CDATA[1.7.0.0,9.0.0]]></compatible_versions>
+</module>

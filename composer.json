@@ -1,0 +1,28 @@
+{
+    "name": "daan026/musiceanscanner",
+    "description": "PrestaShop module voor het importeren van muziekproducten via EAN codes",
+    "type": "prestashop-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daan026",
+            "email": "daan026@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daan026\\MusicEanScanner\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prestashop": {
+        "min": "1.7.0.0",
+        "max": "8.99.99"
+    }
+}
